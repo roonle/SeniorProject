@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 1fd19ac313f034f40a7ee51d8993d610
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: car_base_blue002
+    100002: driverSideSag
+    100004: fd_arm
+    100006: FD_RIM
+    100008: fp_arm
+    100010: FP_RIM
+    100012: frontConstraint
+    100014: //RootNode
+    100016: PSideSag
+    100018: rd_arm
+    100020: RD_RIM
+    100022: rearConstraint
+    100024: rp_arm
+    100026: RP_RIM
+    400000: car_base_blue002
+    400002: driverSideSag
+    400004: fd_arm
+    400006: FD_RIM
+    400008: fp_arm
+    400010: FP_RIM
+    400012: frontConstraint
+    400014: //RootNode
+    400016: PSideSag
+    400018: rd_arm
+    400020: RD_RIM
+    400022: rearConstraint
+    400024: rp_arm
+    400026: RP_RIM
+    2100000: INNER_RIM
+    2100002: RIM
+    2100004: TIRE
+    2100006: 'Material #17'
+    2100008: trims
+    2100010: winodw
+    2100012: body
+    2100014: headlights
+    2100016: beter
+    2100018: tailLight
+    2100020: ARM
+    2100022: ROTOR
+    2100024: CALIPER
+    2300000: car_base_blue002
+    2300002: fd_arm
+    2300004: FD_RIM
+    2300006: fp_arm
+    2300008: FP_RIM
+    2300010: rd_arm
+    2300012: RD_RIM
+    2300014: rp_arm
+    2300016: RP_RIM
+    3300000: car_base_blue002
+    3300002: fd_arm
+    3300004: FD_RIM
+    3300006: fp_arm
+    3300008: FP_RIM
+    3300010: rd_arm
+    3300012: RD_RIM
+    3300014: rp_arm
+    3300016: RP_RIM
+    4300000: FD_RIM
+    4300002: RD_RIM
+    4300004: RP_RIM
+    4300006: FP_RIM
+    4300008: car_base_blue002
+    4300010: rd_arm
+    4300012: rp_arm
+    4300014: fp_arm
+    4300016: fd_arm
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARM
+    second: {fileID: 2100000, guid: 4b64a91f2ba544143a71fb3462acbed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CALIPER
+    second: {fileID: 2100000, guid: 4b64a91f2ba544143a71fb3462acbed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RIM
+    second: {fileID: 2100000, guid: 22ec3ba09a1c0f744a66a964e9d65621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROTOR
+    second: {fileID: 2100000, guid: 4b64a91f2ba544143a71fb3462acbed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 7734d889a6598be47b539c52e23b36ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trims
+    second: {fileID: 2100000, guid: 4b64a91f2ba544143a71fb3462acbed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: winodw
+    second: {fileID: 2100000, guid: aebd0777c0918934482ddb2187eb6da4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

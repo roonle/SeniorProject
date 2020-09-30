@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: d7077c8e0b226e944aa6bf93351573e0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Cube
+    100004: //RootNode
+    100006: Plane.001
+    100008: rock 2
+    100010: rock 2.001
+    100012: rock 2.002
+    100014: rock 3
+    100016: rock 3.001
+    100018: rock 3.002
+    100020: rock 3.003
+    100022: rock 3.004
+    100024: rock 3.005
+    100026: rock 3.006
+    100028: rock 4
+    100030: rock 4.001
+    100032: rock 4.002
+    100034: rock 4.003
+    100036: rock 4.004
+    100038: rock 5
+    100040: rock 5.001
+    100042: rock 5.002
+    100044: rock 5.003
+    100046: rock 5.004
+    100048: rock one
+    100050: rock one.001
+    100052: rock one.002
+    100054: rock one.003
+    100056: rock one.004
+    100058: terrain
+    100060: tree five
+    100062: tree five.001
+    100064: tree five.002
+    100066: tree four
+    100068: tree four.001
+    100070: tree one
+    100072: tree one.001
+    100074: tree three
+    100076: tree two
+    100078: tree two.001
+    400000: Circle
+    400002: Cube
+    400004: //RootNode
+    400006: Plane.001
+    400008: rock 2
+    400010: rock 2.001
+    400012: rock 2.002
+    400014: rock 3
+    400016: rock 3.001
+    400018: rock 3.002
+    400020: rock 3.003
+    400022: rock 3.004
+    400024: rock 3.005
+    400026: rock 3.006
+    400028: rock 4
+    400030: rock 4.001
+    400032: rock 4.002
+    400034: rock 4.003
+    400036: rock 4.004
+    400038: rock 5
+    400040: rock 5.001
+    400042: rock 5.002
+    400044: rock 5.003
+    400046: rock 5.004
+    400048: rock one
+    400050: rock one.001
+    400052: rock one.002
+    400054: rock one.003
+    400056: rock one.004
+    400058: terrain
+    400060: tree five
+    400062: tree five.001
+    400064: tree five.002
+    400066: tree four
+    400068: tree four.001
+    400070: tree one
+    400072: tree one.001
+    400074: tree three
+    400076: tree two
+    400078: tree two.001
+    2100000: terrain
+    2100002: water
+    2100004: Material
+    2100006: Material.001
+    2100008: rocks
+    2300000: Cube
+    2300002: Plane.001
+    2300004: rock 2
+    2300006: rock 2.001
+    2300008: rock 2.002
+    2300010: rock 3
+    2300012: rock 3.001
+    2300014: rock 3.002
+    2300016: rock 3.003
+    2300018: rock 3.004
+    2300020: rock 3.005
+    2300022: rock 3.006
+    2300024: rock 4
+    2300026: rock 4.001
+    2300028: rock 4.002
+    2300030: rock 4.003
+    2300032: rock 4.004
+    2300034: rock 5
+    2300036: rock 5.001
+    2300038: rock 5.002
+    2300040: rock 5.003
+    2300042: rock 5.004
+    2300044: rock one
+    2300046: rock one.001
+    2300048: rock one.002
+    2300050: rock one.003
+    2300052: rock one.004
+    2300054: terrain
+    2300056: tree five
+    2300058: tree five.001
+    2300060: tree five.002
+    2300062: tree four
+    2300064: tree four.001
+    2300066: tree one
+    2300068: tree one.001
+    2300070: tree three
+    2300072: tree two
+    2300074: tree two.001
+    3300000: Cube
+    3300002: Plane.001
+    3300004: rock 2
+    3300006: rock 2.001
+    3300008: rock 2.002
+    3300010: rock 3
+    3300012: rock 3.001
+    3300014: rock 3.002
+    3300016: rock 3.003
+    3300018: rock 3.004
+    3300020: rock 3.005
+    3300022: rock 3.006
+    3300024: rock 4
+    3300026: rock 4.001
+    3300028: rock 4.002
+    3300030: rock 4.003
+    3300032: rock 4.004
+    3300034: rock 5
+    3300036: rock 5.001
+    3300038: rock 5.002
+    3300040: rock 5.003
+    3300042: rock 5.004
+    3300044: rock one
+    3300046: rock one.001
+    3300048: rock one.002
+    3300050: rock one.003
+    3300052: rock one.004
+    3300054: terrain
+    3300056: tree five
+    3300058: tree five.001
+    3300060: tree five.002
+    3300062: tree four
+    3300064: tree four.001
+    3300066: tree one
+    3300068: tree one.001
+    3300070: tree three
+    3300072: tree two
+    3300074: tree two.001
+    4300000: terrain
+    4300002: Plane.001
+    4300004: Cube
+    4300006: tree five
+    4300008: tree four
+    4300010: tree one
+    4300012: tree three
+    4300014: tree two
+    4300016: tree five.001
+    4300018: tree four.001
+    4300020: tree two.001
+    4300022: tree one.001
+    4300024: tree five.002
+    4300026: rock one
+    4300028: rock 2
+    4300030: rock 3
+    4300032: rock 4
+    4300034: rock 5
+    4300036: rock 5.001
+    4300038: rock 3.001
+    4300040: rock one.001
+    4300042: rock 5.002
+    4300044: rock one.002
+    4300046: rock 2.001
+    4300048: rock 5.003
+    4300050: rock 3.002
+    4300052: rock 2.002
+    4300054: rock 3.003
+    4300056: rock 4.001
+    4300058: rock 5.004
+    4300060: rock one.003
+    4300062: rock one.004
+    4300064: rock 4.002
+    4300066: rock 4.003
+    4300068: rock 4.004
+    4300070: rock 3.004
+    4300072: rock 3.005
+    4300074: rock 3.006
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: terrain
+    second: {fileID: 2100000, guid: 578d9aec755fa734bb6de3ae77316c17, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.75
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

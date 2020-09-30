@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: 1dfc8df3657f08f429bdd6ade5f3eee5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: island_mesh
+    100004: Bridge_Beach001
+    100006: Bridge_Beach002
+    100008: Bridge_Beach003
+    100010: Bridge_Beach004
+    100012: Bridge_Road_004
+    100014: Bridge_Road_005
+    100016: Bridge_Road_006
+    100018: Bridge_Road_007
+    100020: Bridge_Road_008
+    100022: fixed end
+    100024: fixed end001
+    100026: fixed end002
+    100028: fixed mid
+    100030: fixed mid001
+    100032: fixed mid002
+    100034: fixed mid003
+    100036: fixed mid004
+    100038: fixed mid005
+    100040: fixed mid006
+    100042: fixed mid007
+    100044: fixed mid008
+    100046: fixed mid009
+    100048: fixed mid010
+    100050: fixed mid011
+    100052: fixed mid012
+    100054: fixed mid013
+    100056: fixed mid014
+    100058: fixed mid015
+    100060: fixed mid016
+    100062: fixed mid_h016
+    100064: fixed mid_h017
+    100066: fixed mid_h018
+    100068: fixed mid_h019
+    100070: fixed mid_h020
+    100072: fixed mid_h021
+    100074: fixed mid_h022
+    100076: fixed mid_h023
+    100078: fixed mid_h024
+    100080: fixed mid_h025
+    100082: fixed mid_h026
+    100084: fixed mid_h027
+    100086: fixed_corner
+    100088: fixed_corner_180001
+    100090: fixed_corner_270002
+    100092: fixed_corner_270003
+    100094: fixed_corner_270004
+    100096: fixed_cross
+    100098: fixed_cross001
+    100100: fixed_cross002
+    100102: fixed_cross003
+    100104: fixed_cross004
+    100106: fixed_T_down
+    100108: fixed_T_down001
+    100110: fixed_T_down002
+    100112: fixed_T_down003
+    100114: fixed_T_left003
+    100116: fixed_T_right002
+    100118: fixed_T_up004
+    100120: Floor_Grass_041
+    100122: Floor_Grass_042
+    100124: Floor_Grass_043
+    100126: Floor_Grass_044
+    100128: Floor_Grass_045
+    100130: Floor_Grass_046
+    100132: Floor_Grass_047
+    100134: Floor_Grass_048
+    100136: Floor_Grass_049
+    100138: Floor_Grass_050
+    100140: Floor_Grass_051
+    100142: Floor_Grass_052
+    100144: Floor_Grass_053
+    100146: Floor_Grass_054
+    100148: Floor_Grass_055
+    100150: Floor_Grass_056
+    100152: Floor_Grass_057
+    100154: Floor_Grass_058
+    100156: Floor_Grass_059
+    100158: Floor_Grass_060
+    100160: Floor_Grass_061
+    100162: Floor_Grass_062
+    100164: Floor_Grass_063
+    100166: Floor_Grass_064
+    100168: Floor_Grass_065
+    100170: Floor_Grass_066
+    100172: Floor_Grass_067
+    100174: Floor_Grass_068
+    100176: Floor_Grass_069
+    100178: Floor_Grass_070
+    100180: Floor_Grass_071
+    100182: Floor_Grass_073
+    100184: Floor_Grass_074
+    100186: Floor_Grass_075
+    100188: Floor_Grass_076
+    100190: Floor_Grass_077
+    100192: Floor_Grass_078
+    100194: Floor_Grass_079
+    100196: Floor_Grass_080
+    100198: Floor_Grass_081
+    100200: Floor_Grass_082
+    100202: Floor_Grass_Pond002
+    100204: Floor_Grass_Pond_x003
+    100206: Sand_Plane001
+    100208: Sand_Plane_002
+    100210: Sand_Slope_012
+    100212: Sand_Slope_013
+    100214: Sand_Slope_014
+    100216: Sand_Slope_015
+    100218: Sand_Slope_016
+    100220: Sand_Slope_017
+    100222: Sand_Slope_018
+    100224: Sand_Slope_019
+    100226: Sand_Slope_020
+    100228: Sand_Slope_021
+    100230: Sand_Slope_022
+    100232: Sand_Slope_023
+    100234: Sand_Slope_024
+    100236: SandPath_Corner002
+    100238: SandPath_Corner003
+    100240: SandPath_Corner004
+    100242: SandPath_Corner005
+    100244: SandPath_Corner006
+    100246: SandPath_Cross001
+    100248: SandPath_Cross003
+    100250: SandPath_Cross004
+    100252: SandPath_Straight_015
+    100254: SandPath_Straight_016
+    100256: SandPath_Straight_017
+    100258: SandPath_Straight_018
+    100260: SandPath_Straight_019
+    100262: SandPath_Straight_020
+    100264: SandPath_Straight_021
+    100266: SandPath_Straight_022
+    100268: SandPath_Straight_023
+    100270: SandPath_Straight_024
+    100272: SandPath_Straight_025
+    100274: SandPath_Straight_026
+    100276: SandPath_Straight_027
+    100278: SandPath_Straight_028
+    100280: SandPath_Straight_029
+    100282: SandPath_Straight_030
+    100284: SandPath_Straight_031
+    100286: SandPath_Straight_032
+    100288: SandPath_Straight_033
+    100290: SandPath_Straight_034
+    100292: SandPath_Straight_035
+    100294: SandPath_Straight_036
+    100296: SandPath_Straight_037
+    100298: SandPath_Straight_038
+    100300: SandPath_Straight_039
+    100302: SandPath_Straight_040
+    100304: SandPath_Straight_041
+    100306: SandPath_Straight_042
+    100308: SandPath_Straight_043
+    100310: SandPath_Straight_044
+    100312: SandPath_Straight_045
+    100314: SandPath_Turn_003
+    100316: SandPath_Turn_004
+    100318: SandPath_Turn_005
+    100320: SandPath_Turn_006
+    100322: SandPath_Turn_007
+    100324: StonePath_End001
+    100326: StonePath_End002
+    100328: StonePath_Stairs001
+    400000: //RootNode
+    400002: island_mesh
+    400004: Bridge_Beach001
+    400006: Bridge_Beach002
+    400008: Bridge_Beach003
+    400010: Bridge_Beach004
+    400012: Bridge_Road_004
+    400014: Bridge_Road_005
+    400016: Bridge_Road_006
+    400018: Bridge_Road_007
+    400020: Bridge_Road_008
+    400022: fixed end
+    400024: fixed end001
+    400026: fixed end002
+    400028: fixed mid
+    400030: fixed mid001
+    400032: fixed mid002
+    400034: fixed mid003
+    400036: fixed mid004
+    400038: fixed mid005
+    400040: fixed mid006
+    400042: fixed mid007
+    400044: fixed mid008
+    400046: fixed mid009
+    400048: fixed mid010
+    400050: fixed mid011
+    400052: fixed mid012
+    400054: fixed mid013
+    400056: fixed mid014
+    400058: fixed mid015
+    400060: fixed mid016
+    400062: fixed mid_h016
+    400064: fixed mid_h017
+    400066: fixed mid_h018
+    400068: fixed mid_h019
+    400070: fixed mid_h020
+    400072: fixed mid_h021
+    400074: fixed mid_h022
+    400076: fixed mid_h023
+    400078: fixed mid_h024
+    400080: fixed mid_h025
+    400082: fixed mid_h026
+    400084: fixed mid_h027
+    400086: fixed_corner
+    400088: fixed_corner_180001
+    400090: fixed_corner_270002
+    400092: fixed_corner_270003
+    400094: fixed_corner_270004
+    400096: fixed_cross
+    400098: fixed_cross001
+    400100: fixed_cross002
+    400102: fixed_cross003
+    400104: fixed_cross004
+    400106: fixed_T_down
+    400108: fixed_T_down001
+    400110: fixed_T_down002
+    400112: fixed_T_down003
+    400114: fixed_T_left003
+    400116: fixed_T_right002
+    400118: fixed_T_up004
+    400120: Floor_Grass_041
+    400122: Floor_Grass_042
+    400124: Floor_Grass_043
+    400126: Floor_Grass_044
+    400128: Floor_Grass_045
+    400130: Floor_Grass_046
+    400132: Floor_Grass_047
+    400134: Floor_Grass_048
+    400136: Floor_Grass_049
+    400138: Floor_Grass_050
+    400140: Floor_Grass_051
+    400142: Floor_Grass_052
+    400144: Floor_Grass_053
+    400146: Floor_Grass_054
+    400148: Floor_Grass_055
+    400150: Floor_Grass_056
+    400152: Floor_Grass_057
+    400154: Floor_Grass_058
+    400156: Floor_Grass_059
+    400158: Floor_Grass_060
+    400160: Floor_Grass_061
+    400162: Floor_Grass_062
+    400164: Floor_Grass_063
+    400166: Floor_Grass_064
+    400168: Floor_Grass_065
+    400170: Floor_Grass_066
+    400172: Floor_Grass_067
+    400174: Floor_Grass_068
+    400176: Floor_Grass_069
+    400178: Floor_Grass_070
+    400180: Floor_Grass_071
+    400182: Floor_Grass_073
+    400184: Floor_Grass_074
+    400186: Floor_Grass_075
+    400188: Floor_Grass_076
+    400190: Floor_Grass_077
+    400192: Floor_Grass_078
+    400194: Floor_Grass_079
+    400196: Floor_Grass_080
+    400198: Floor_Grass_081
+    400200: Floor_Grass_082
+    400202: Floor_Grass_Pond002
+    400204: Floor_Grass_Pond_x003
+    400206: Sand_Plane001
+    400208: Sand_Plane_002
+    400210: Sand_Slope_012
+    400212: Sand_Slope_013
+    400214: Sand_Slope_014
+    400216: Sand_Slope_015
+    400218: Sand_Slope_016
+    400220: Sand_Slope_017
+    400222: Sand_Slope_018
+    400224: Sand_Slope_019
+    400226: Sand_Slope_020
+    400228: Sand_Slope_021
+    400230: Sand_Slope_022
+    400232: Sand_Slope_023
+    400234: Sand_Slope_024
+    400236: SandPath_Corner002
+    400238: SandPath_Corner003
+    400240: SandPath_Corner004
+    400242: SandPath_Corner005
+    400244: SandPath_Corner006
+    400246: SandPath_Cross001
+    400248: SandPath_Cross003
+    400250: SandPath_Cross004
+    400252: SandPath_Straight_015
+    400254: SandPath_Straight_016
+    400256: SandPath_Straight_017
+    400258: SandPath_Straight_018
+    400260: SandPath_Straight_019
+    400262: SandPath_Straight_020
+    400264: SandPath_Straight_021
+    400266: SandPath_Straight_022
+    400268: SandPath_Straight_023
+    400270: SandPath_Straight_024
+    400272: SandPath_Straight_025
+    400274: SandPath_Straight_026
+    400276: SandPath_Straight_027
+    400278: SandPath_Straight_028
+    400280: SandPath_Straight_029
+    400282: SandPath_Straight_030
+    400284: SandPath_Straight_031
+    400286: SandPath_Straight_032
+    400288: SandPath_Straight_033
+    400290: SandPath_Straight_034
+    400292: SandPath_Straight_035
+    400294: SandPath_Straight_036
+    400296: SandPath_Straight_037
+    400298: SandPath_Straight_038
+    400300: SandPath_Straight_039
+    400302: SandPath_Straight_040
+    400304: SandPath_Straight_041
+    400306: SandPath_Straight_042
+    400308: SandPath_Straight_043
+    400310: SandPath_Straight_044
+    400312: SandPath_Straight_045
+    400314: SandPath_Turn_003
+    400316: SandPath_Turn_004
+    400318: SandPath_Turn_005
+    400320: SandPath_Turn_006
+    400322: SandPath_Turn_007
+    400324: StonePath_End001
+    400326: StonePath_End002
+    400328: StonePath_Stairs001
+    2100000: Floor
+    2100002: Colors
+    2300000: island_mesh
+    2300002: Bridge_Beach001
+    2300004: Bridge_Beach002
+    2300006: Bridge_Beach003
+    2300008: Bridge_Beach004
+    2300010: Bridge_Road_004
+    2300012: Bridge_Road_005
+    2300014: Bridge_Road_006
+    2300016: Bridge_Road_007
+    2300018: Bridge_Road_008
+    2300020: fixed end
+    2300022: fixed end001
+    2300024: fixed end002
+    2300026: fixed mid
+    2300028: fixed mid001
+    2300030: fixed mid002
+    2300032: fixed mid003
+    2300034: fixed mid004
+    2300036: fixed mid005
+    2300038: fixed mid006
+    2300040: fixed mid007
+    2300042: fixed mid008
+    2300044: fixed mid009
+    2300046: fixed mid010
+    2300048: fixed mid011
+    2300050: fixed mid012
+    2300052: fixed mid013
+    2300054: fixed mid014
+    2300056: fixed mid015
+    2300058: fixed mid016
+    2300060: fixed mid_h016
+    2300062: fixed mid_h017
+    2300064: fixed mid_h018
+    2300066: fixed mid_h019
+    2300068: fixed mid_h020
+    2300070: fixed mid_h021
+    2300072: fixed mid_h022
+    2300074: fixed mid_h023
+    2300076: fixed mid_h024
+    2300078: fixed mid_h025
+    2300080: fixed mid_h026
+    2300082: fixed mid_h027
+    2300084: fixed_corner
+    2300086: fixed_corner_180001
+    2300088: fixed_corner_270002
+    2300090: fixed_corner_270003
+    2300092: fixed_corner_270004
+    2300094: fixed_cross
+    2300096: fixed_cross001
+    2300098: fixed_cross002
+    2300100: fixed_cross003
+    2300102: fixed_cross004
+    2300104: fixed_T_down
+    2300106: fixed_T_down001
+    2300108: fixed_T_down002
+    2300110: fixed_T_down003
+    2300112: fixed_T_left003
+    2300114: fixed_T_right002
+    2300116: fixed_T_up004
+    2300118: Floor_Grass_041
+    2300120: Floor_Grass_042
+    2300122: Floor_Grass_043
+    2300124: Floor_Grass_044
+    2300126: Floor_Grass_045
+    2300128: Floor_Grass_046
+    2300130: Floor_Grass_047
+    2300132: Floor_Grass_048
+    2300134: Floor_Grass_049
+    2300136: Floor_Grass_050
+    2300138: Floor_Grass_051
+    2300140: Floor_Grass_052
+    2300142: Floor_Grass_053
+    2300144: Floor_Grass_054
+    2300146: Floor_Grass_055
+    2300148: Floor_Grass_056
+    2300150: Floor_Grass_057
+    2300152: Floor_Grass_058
+    2300154: Floor_Grass_059
+    2300156: Floor_Grass_060
+    2300158: Floor_Grass_061
+    2300160: Floor_Grass_062
+    2300162: Floor_Grass_063
+    2300164: Floor_Grass_064
+    2300166: Floor_Grass_065
+    2300168: Floor_Grass_066
+    2300170: Floor_Grass_067
+    2300172: Floor_Grass_068
+    2300174: Floor_Grass_069
+    2300176: Floor_Grass_070
+    2300178: Floor_Grass_071
+    2300180: Floor_Grass_073
+    2300182: Floor_Grass_074
+    2300184: Floor_Grass_075
+    2300186: Floor_Grass_076
+    2300188: Floor_Grass_077
+    2300190: Floor_Grass_078
+    2300192: Floor_Grass_079
+    2300194: Floor_Grass_080
+    2300196: Floor_Grass_081
+    2300198: Floor_Grass_082
+    2300200: Floor_Grass_Pond002
+    2300202: Floor_Grass_Pond_x003
+    2300204: Sand_Plane001
+    2300206: Sand_Plane_002
+    2300208: Sand_Slope_012
+    2300210: Sand_Slope_013
+    2300212: Sand_Slope_014
+    2300214: Sand_Slope_015
+    2300216: Sand_Slope_016
+    2300218: Sand_Slope_017
+    2300220: Sand_Slope_018
+    2300222: Sand_Slope_019
+    2300224: Sand_Slope_020
+    2300226: Sand_Slope_021
+    2300228: Sand_Slope_022
+    2300230: Sand_Slope_023
+    2300232: Sand_Slope_024
+    2300234: SandPath_Corner002
+    2300236: SandPath_Corner003
+    2300238: SandPath_Corner004
+    2300240: SandPath_Corner005
+    2300242: SandPath_Corner006
+    2300244: SandPath_Cross001
+    2300246: SandPath_Cross003
+    2300248: SandPath_Cross004
+    2300250: SandPath_Straight_015
+    2300252: SandPath_Straight_016
+    2300254: SandPath_Straight_017
+    2300256: SandPath_Straight_018
+    2300258: SandPath_Straight_019
+    2300260: SandPath_Straight_020
+    2300262: SandPath_Straight_021
+    2300264: SandPath_Straight_022
+    2300266: SandPath_Straight_023
+    2300268: SandPath_Straight_024
+    2300270: SandPath_Straight_025
+    2300272: SandPath_Straight_026
+    2300274: SandPath_Straight_027
+    2300276: SandPath_Straight_028
+    2300278: SandPath_Straight_029
+    2300280: SandPath_Straight_030
+    2300282: SandPath_Straight_031
+    2300284: SandPath_Straight_032
+    2300286: SandPath_Straight_033
+    2300288: SandPath_Straight_034
+    2300290: SandPath_Straight_035
+    2300292: SandPath_Straight_036
+    2300294: SandPath_Straight_037
+    2300296: SandPath_Straight_038
+    2300298: SandPath_Straight_039
+    2300300: SandPath_Straight_040
+    2300302: SandPath_Straight_041
+    2300304: SandPath_Straight_042
+    2300306: SandPath_Straight_043
+    2300308: SandPath_Straight_044
+    2300310: SandPath_Straight_045
+    2300312: SandPath_Turn_003
+    2300314: SandPath_Turn_004
+    2300316: SandPath_Turn_005
+    2300318: SandPath_Turn_006
+    2300320: SandPath_Turn_007
+    2300322: StonePath_End001
+    2300324: StonePath_End002
+    2300326: StonePath_Stairs001
+    3300000: island_mesh
+    3300002: Bridge_Beach001
+    3300004: Bridge_Beach002
+    3300006: Bridge_Beach003
+    3300008: Bridge_Beach004
+    3300010: Bridge_Road_004
+    3300012: Bridge_Road_005
+    3300014: Bridge_Road_006
+    3300016: Bridge_Road_007
+    3300018: Bridge_Road_008
+    3300020: fixed end
+    3300022: fixed end001
+    3300024: fixed end002
+    3300026: fixed mid
+    3300028: fixed mid001
+    3300030: fixed mid002
+    3300032: fixed mid003
+    3300034: fixed mid004
+    3300036: fixed mid005
+    3300038: fixed mid006
+    3300040: fixed mid007
+    3300042: fixed mid008
+    3300044: fixed mid009
+    3300046: fixed mid010
+    3300048: fixed mid011
+    3300050: fixed mid012
+    3300052: fixed mid013
+    3300054: fixed mid014
+    3300056: fixed mid015
+    3300058: fixed mid016
+    3300060: fixed mid_h016
+    3300062: fixed mid_h017
+    3300064: fixed mid_h018
+    3300066: fixed mid_h019
+    3300068: fixed mid_h020
+    3300070: fixed mid_h021
+    3300072: fixed mid_h022
+    3300074: fixed mid_h023
+    3300076: fixed mid_h024
+    3300078: fixed mid_h025
+    3300080: fixed mid_h026
+    3300082: fixed mid_h027
+    3300084: fixed_corner
+    3300086: fixed_corner_180001
+    3300088: fixed_corner_270002
+    3300090: fixed_corner_270003
+    3300092: fixed_corner_270004
+    3300094: fixed_cross
+    3300096: fixed_cross001
+    3300098: fixed_cross002
+    3300100: fixed_cross003
+    3300102: fixed_cross004
+    3300104: fixed_T_down
+    3300106: fixed_T_down001
+    3300108: fixed_T_down002
+    3300110: fixed_T_down003
+    3300112: fixed_T_left003
+    3300114: fixed_T_right002
+    3300116: fixed_T_up004
+    3300118: Floor_Grass_041
+    3300120: Floor_Grass_042
+    3300122: Floor_Grass_043
+    3300124: Floor_Grass_044
+    3300126: Floor_Grass_045
+    3300128: Floor_Grass_046
+    3300130: Floor_Grass_047
+    3300132: Floor_Grass_048
+    3300134: Floor_Grass_049
+    3300136: Floor_Grass_050
+    3300138: Floor_Grass_051
+    3300140: Floor_Grass_052
+    3300142: Floor_Grass_053
+    3300144: Floor_Grass_054
+    3300146: Floor_Grass_055
+    3300148: Floor_Grass_056
+    3300150: Floor_Grass_057
+    3300152: Floor_Grass_058
+    3300154: Floor_Grass_059
+    3300156: Floor_Grass_060
+    3300158: Floor_Grass_061
+    3300160: Floor_Grass_062
+    3300162: Floor_Grass_063
+    3300164: Floor_Grass_064
+    3300166: Floor_Grass_065
+    3300168: Floor_Grass_066
+    3300170: Floor_Grass_067
+    3300172: Floor_Grass_068
+    3300174: Floor_Grass_069
+    3300176: Floor_Grass_070
+    3300178: Floor_Grass_071
+    3300180: Floor_Grass_073
+    3300182: Floor_Grass_074
+    3300184: Floor_Grass_075
+    3300186: Floor_Grass_076
+    3300188: Floor_Grass_077
+    3300190: Floor_Grass_078
+    3300192: Floor_Grass_079
+    3300194: Floor_Grass_080
+    3300196: Floor_Grass_081
+    3300198: Floor_Grass_082
+    3300200: Floor_Grass_Pond002
+    3300202: Floor_Grass_Pond_x003
+    3300204: Sand_Plane001
+    3300206: Sand_Plane_002
+    3300208: Sand_Slope_012
+    3300210: Sand_Slope_013
+    3300212: Sand_Slope_014
+    3300214: Sand_Slope_015
+    3300216: Sand_Slope_016
+    3300218: Sand_Slope_017
+    3300220: Sand_Slope_018
+    3300222: Sand_Slope_019
+    3300224: Sand_Slope_020
+    3300226: Sand_Slope_021
+    3300228: Sand_Slope_022
+    3300230: Sand_Slope_023
+    3300232: Sand_Slope_024
+    3300234: SandPath_Corner002
+    3300236: SandPath_Corner003
+    3300238: SandPath_Corner004
+    3300240: SandPath_Corner005
+    3300242: SandPath_Corner006
+    3300244: SandPath_Cross001
+    3300246: SandPath_Cross003
+    3300248: SandPath_Cross004
+    3300250: SandPath_Straight_015
+    3300252: SandPath_Straight_016
+    3300254: SandPath_Straight_017
+    3300256: SandPath_Straight_018
+    3300258: SandPath_Straight_019
+    3300260: SandPath_Straight_020
+    3300262: SandPath_Straight_021
+    3300264: SandPath_Straight_022
+    3300266: SandPath_Straight_023
+    3300268: SandPath_Straight_024
+    3300270: SandPath_Straight_025
+    3300272: SandPath_Straight_026
+    3300274: SandPath_Straight_027
+    3300276: SandPath_Straight_028
+    3300278: SandPath_Straight_029
+    3300280: SandPath_Straight_030
+    3300282: SandPath_Straight_031
+    3300284: SandPath_Straight_032
+    3300286: SandPath_Straight_033
+    3300288: SandPath_Straight_034
+    3300290: SandPath_Straight_035
+    3300292: SandPath_Straight_036
+    3300294: SandPath_Straight_037
+    3300296: SandPath_Straight_038
+    3300298: SandPath_Straight_039
+    3300300: SandPath_Straight_040
+    3300302: SandPath_Straight_041
+    3300304: SandPath_Straight_042
+    3300306: SandPath_Straight_043
+    3300308: SandPath_Straight_044
+    3300310: SandPath_Straight_045
+    3300312: SandPath_Turn_003
+    3300314: SandPath_Turn_004
+    3300316: SandPath_Turn_005
+    3300318: SandPath_Turn_006
+    3300320: SandPath_Turn_007
+    3300322: StonePath_End001
+    3300324: StonePath_End002
+    3300326: StonePath_Stairs001
+    4300000: island_mesh
+    4300002: Bridge_Road_007
+    4300004: Bridge_Road_006
+    4300006: Bridge_Road_005
+    4300008: Bridge_Road_004
+    4300010: SandPath_Straight_044
+    4300012: SandPath_Straight_043
+    4300014: SandPath_Straight_042
+    4300016: SandPath_Straight_041
+    4300018: SandPath_Straight_040
+    4300020: SandPath_Cross004
+    4300022: SandPath_Straight_039
+    4300024: SandPath_Straight_038
+    4300026: SandPath_Straight_037
+    4300028: SandPath_Turn_007
+    4300030: SandPath_Turn_006
+    4300032: SandPath_Straight_036
+    4300034: SandPath_Straight_035
+    4300036: SandPath_Straight_034
+    4300038: SandPath_Turn_005
+    4300040: SandPath_Straight_033
+    4300042: SandPath_Straight_032
+    4300044: SandPath_Cross003
+    4300046: SandPath_Straight_031
+    4300048: SandPath_Straight_030
+    4300050: SandPath_Straight_029
+    4300052: SandPath_Corner006
+    4300054: SandPath_Straight_028
+    4300056: SandPath_Turn_004
+    4300058: SandPath_Straight_027
+    4300060: SandPath_Straight_026
+    4300062: SandPath_Corner005
+    4300064: SandPath_Straight_025
+    4300066: SandPath_Straight_024
+    4300068: SandPath_Turn_003
+    4300070: SandPath_Straight_023
+    4300072: SandPath_Straight_022
+    4300074: SandPath_Straight_021
+    4300076: SandPath_Corner004
+    4300078: SandPath_Straight_020
+    4300080: SandPath_Corner003
+    4300082: SandPath_Straight_019
+    4300084: SandPath_Straight_018
+    4300086: SandPath_Corner002
+    4300088: SandPath_Straight_017
+    4300090: SandPath_Cross001
+    4300092: SandPath_Straight_016
+    4300094: SandPath_Straight_015
+    4300096: fixed_corner
+    4300098: fixed_cross
+    4300100: fixed_T_down
+    4300102: fixed mid
+    4300104: fixed end
+    4300106: fixed mid001
+    4300108: fixed mid002
+    4300110: fixed mid003
+    4300112: fixed mid004
+    4300114: fixed mid005
+    4300116: fixed mid006
+    4300118: fixed mid007
+    4300120: fixed end001
+    4300122: fixed mid008
+    4300124: fixed mid009
+    4300126: fixed mid010
+    4300128: fixed mid011
+    4300130: fixed mid012
+    4300132: fixed mid013
+    4300134: fixed mid014
+    4300136: fixed mid015
+    4300138: fixed mid_h016
+    4300140: fixed mid_h017
+    4300142: fixed mid_h018
+    4300144: fixed mid_h019
+    4300146: fixed mid_h020
+    4300148: fixed mid_h021
+    4300150: fixed mid_h022
+    4300152: fixed mid_h023
+    4300154: fixed mid_h024
+    4300156: fixed mid_h025
+    4300158: fixed mid_h026
+    4300160: fixed_corner_180001
+    4300162: fixed_corner_270002
+    4300164: fixed_corner_270003
+    4300166: fixed_corner_270004
+    4300168: fixed_cross001
+    4300170: fixed_cross002
+    4300172: fixed_cross003
+    4300174: fixed_cross004
+    4300176: fixed_T_down001
+    4300178: fixed mid_h027
+    4300180: fixed_T_right002
+    4300182: fixed_T_left003
+    4300184: fixed_T_up004
+    4300186: SandPath_Straight_045
+    4300188: Sand_Slope_016
+    4300190: Sand_Slope_015
+    4300192: Sand_Slope_014
+    4300194: Sand_Slope_013
+    4300196: Sand_Slope_012
+    4300198: Floor_Grass_076
+    4300200: Floor_Grass_075
+    4300202: Floor_Grass_074
+    4300204: Floor_Grass_073
+    4300206: Floor_Grass_071
+    4300208: Floor_Grass_070
+    4300210: Floor_Grass_069
+    4300212: Floor_Grass_068
+    4300214: Floor_Grass_067
+    4300216: Floor_Grass_066
+    4300218: Floor_Grass_065
+    4300220: Floor_Grass_064
+    4300222: Floor_Grass_063
+    4300224: Floor_Grass_062
+    4300226: Floor_Grass_061
+    4300228: Floor_Grass_060
+    4300230: Floor_Grass_059
+    4300232: Floor_Grass_058
+    4300234: Floor_Grass_057
+    4300236: Floor_Grass_056
+    4300238: Floor_Grass_055
+    4300240: Floor_Grass_054
+    4300242: Floor_Grass_053
+    4300244: Floor_Grass_052
+    4300246: Floor_Grass_051
+    4300248: Floor_Grass_050
+    4300250: Floor_Grass_049
+    4300252: Floor_Grass_048
+    4300254: Floor_Grass_047
+    4300256: Floor_Grass_046
+    4300258: Floor_Grass_045
+    4300260: Floor_Grass_044
+    4300262: Floor_Grass_043
+    4300264: Floor_Grass_042
+    4300266: Floor_Grass_041
+    4300268: Floor_Grass_Pond_x003
+    4300270: Floor_Grass_Pond002
+    4300272: Bridge_Beach001
+    4300274: Floor_Grass_077
+    4300276: Floor_Grass_078
+    4300278: Sand_Slope_017
+    4300280: Sand_Slope_018
+    4300282: Sand_Slope_019
+    4300284: Floor_Grass_079
+    4300286: Floor_Grass_080
+    4300288: Sand_Slope_020
+    4300290: Sand_Slope_021
+    4300292: Sand_Slope_022
+    4300294: Sand_Slope_023
+    4300296: Bridge_Beach002
+    4300298: StonePath_End002
+    4300300: StonePath_Stairs001
+    4300302: StonePath_End001
+    4300304: Sand_Plane_002
+    4300306: Sand_Plane001
+    4300308: Floor_Grass_081
+    4300310: Floor_Grass_082
+    4300312: Sand_Slope_024
+    4300314: fixed end002
+    4300316: Bridge_Road_008
+    4300318: Bridge_Beach003
+    4300320: Bridge_Beach004
+    4300322: fixed_T_down002
+    4300324: fixed_T_down003
+    4300326: fixed mid016
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

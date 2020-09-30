@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7f8a742eb3696a47b2b3ce2508eadb4, type: 3}
+  m_Name: ChadCardMatchingQuest
+  m_EditorClassIdentifier: 
+  Goals:
+  - {fileID: 11400000, guid: 43480f6f1d93a974a89888c0904bb1bb, type: 2}
+  QuestName: Play Card Match Game
+  Description: Go to the School, find the game game and play one round.
+  reward: 4
+  completed: 0
